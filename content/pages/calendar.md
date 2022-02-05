@@ -9,19 +9,234 @@ Key:
 DS = Prof. David Schauer  
 AR = Dr. Arlin Rogers (Guest lecturer, MIT Division of Comparative Medicine)
 
-| LEC # | TOPICS | INSTRUCTORS | KEY DATES |
-| --- | --- | --- | --- |
-| 1 | Introduction to 20.450 and HCC | DS |  |
-| 2-3 | Cellular Pathology | DS |  |
-| 4-5 | Inflammation | DS | Student presentation 1 due |
-| 6 | Liver Anatomy and Histology | AR |  |
-| 7-9 | Immunity | DS | Student presentation 2 due |
-| 10 | Neoplasia | DS | Student presentation 3 due |
-|  | Midterm Exam |  |  |
-| 11 | Neoplasia (cont.) | DS |  |
-| 12-13 | Infectious Diseases | DS |  |
-| 14 | Liver and Biliary | DS |  |
-| 15-16 | Hepatocarcinogenesis | DS | Student presentation 4 due |
-| 17-18 | Animal Models | AR |  |
-| 19-22 | Special Topic | DS | Student presentation 5 due |
-|  | Final Exam |  |
+{{< tableopen >}}
+{{< theadopen >}}
+{{< tropen >}}
+{{< thopen >}}
+LEC #
+{{< thclose >}}
+{{< thopen >}}
+TOPICS
+{{< thclose >}}
+{{< thopen >}}
+INSTRUCTORS
+{{< thclose >}}
+{{< thopen >}}
+KEY DATES
+{{< thclose >}}
+
+{{< trclose >}}
+
+{{< theadclose >}}
+{{< tropen >}}
+{{< tdopen >}}
+1
+{{< tdclose >}}
+{{< tdopen >}}
+Introduction to 20.450 and HCC
+{{< tdclose >}}
+{{< tdopen >}}
+DS
+{{< tdclose >}}
+{{< tdopen >}}
+
+{{< tdclose >}}
+
+{{< trclose >}}
+{{< tropen >}}
+{{< tdopen >}}
+2-3
+{{< tdclose >}}
+{{< tdopen >}}
+Cellular Pathology
+{{< tdclose >}}
+{{< tdopen >}}
+DS
+{{< tdclose >}}
+{{< tdopen >}}
+
+{{< tdclose >}}
+
+{{< trclose >}}
+{{< tropen >}}
+{{< tdopen >}}
+4-5
+{{< tdclose >}}
+{{< tdopen >}}
+Inflammation
+{{< tdclose >}}
+{{< tdopen >}}
+DS
+{{< tdclose >}}
+{{< tdopen >}}
+Student presentation 1 due
+{{< tdclose >}}
+
+{{< trclose >}}
+{{< tropen >}}
+{{< tdopen >}}
+6
+{{< tdclose >}}
+{{< tdopen >}}
+Liver Anatomy and Histology
+{{< tdclose >}}
+{{< tdopen >}}
+AR
+{{< tdclose >}}
+{{< tdopen >}}
+
+{{< tdclose >}}
+
+{{< trclose >}}
+{{< tropen >}}
+{{< tdopen >}}
+7-9
+{{< tdclose >}}
+{{< tdopen >}}
+Immunity
+{{< tdclose >}}
+{{< tdopen >}}
+DS
+{{< tdclose >}}
+{{< tdopen >}}
+Student presentation 2 due
+{{< tdclose >}}
+
+{{< trclose >}}
+{{< tropen >}}
+{{< tdopen >}}
+10
+{{< tdclose >}}
+{{< tdopen >}}
+Neoplasia
+{{< tdclose >}}
+{{< tdopen >}}
+DS
+{{< tdclose >}}
+{{< tdopen >}}
+Student presentation 3 due
+{{< tdclose >}}
+
+{{< trclose >}}
+{{< tropen >}}
+{{< tdopen >}}
+
+{{< tdclose >}}
+{{< tdopen >}}
+Midterm Exam
+{{< tdclose >}}
+{{< tdopen >}}
+
+{{< tdclose >}}
+{{< tdopen >}}
+
+{{< tdclose >}}
+
+{{< trclose >}}
+{{< tropen >}}
+{{< tdopen >}}
+11
+{{< tdclose >}}
+{{< tdopen >}}
+Neoplasia (cont.)
+{{< tdclose >}}
+{{< tdopen >}}
+DS
+{{< tdclose >}}
+{{< tdopen >}}
+
+{{< tdclose >}}
+
+{{< trclose >}}
+{{< tropen >}}
+{{< tdopen >}}
+12-13
+{{< tdclose >}}
+{{< tdopen >}}
+Infectious Diseases
+{{< tdclose >}}
+{{< tdopen >}}
+DS
+{{< tdclose >}}
+{{< tdopen >}}
+
+{{< tdclose >}}
+
+{{< trclose >}}
+{{< tropen >}}
+{{< tdopen >}}
+14
+{{< tdclose >}}
+{{< tdopen >}}
+Liver and Biliary
+{{< tdclose >}}
+{{< tdopen >}}
+DS
+{{< tdclose >}}
+{{< tdopen >}}
+
+{{< tdclose >}}
+
+{{< trclose >}}
+{{< tropen >}}
+{{< tdopen >}}
+15-16
+{{< tdclose >}}
+{{< tdopen >}}
+Hepatocarcinogenesis
+{{< tdclose >}}
+{{< tdopen >}}
+DS
+{{< tdclose >}}
+{{< tdopen >}}
+Student presentation 4 due
+{{< tdclose >}}
+
+{{< trclose >}}
+{{< tropen >}}
+{{< tdopen >}}
+17-18
+{{< tdclose >}}
+{{< tdopen >}}
+Animal Models
+{{< tdclose >}}
+{{< tdopen >}}
+AR
+{{< tdclose >}}
+{{< tdopen >}}
+
+{{< tdclose >}}
+
+{{< trclose >}}
+{{< tropen >}}
+{{< tdopen >}}
+19-22
+{{< tdclose >}}
+{{< tdopen >}}
+Special Topic
+{{< tdclose >}}
+{{< tdopen >}}
+DS
+{{< tdclose >}}
+{{< tdopen >}}
+Student presentation 5 due
+{{< tdclose >}}
+
+{{< trclose >}}
+{{< tropen >}}
+{{< tdopen >}}
+
+{{< tdclose >}}
+{{< tdopen >}}
+Final Exam
+{{< tdclose >}}
+{{< tdopen >}}
+
+{{< tdclose >}}
+{{< tdopen >}}
+
+{{< tdclose >}}
+
+{{< trclose >}}
+
+{{< tableclose >}}
