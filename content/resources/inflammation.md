@@ -6,6 +6,7 @@ description: 'This file contains notes for chemotaxis and chemo invasion assays,
   disease etc.'
 file: https://ol-ocw-studio-app-qa.s3.amazonaws.com/courses/20-450-molecular-and-cellular-pathophysiology-be-450-spring-2005/c8e4971d6915aff37c981866b31e19a9_inflammation.pdf
 file_type: application/pdf
+parent_uid: 2aa0972e-3546-9eed-c276-985bd8c0386c
 resourcetype: Document
 title: inflammation.pdf
 uid: c8e4971d-6915-aff3-7c98-1866b31e19a9

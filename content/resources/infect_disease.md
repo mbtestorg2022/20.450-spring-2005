@@ -7,6 +7,7 @@ description: This file contains tumor immunity, koch?s postulates,toxin terminol
   infectious group 1 carcinogens etc.
 file: https://ol-ocw-studio-app-qa.s3.amazonaws.com/courses/20-450-molecular-and-cellular-pathophysiology-be-450-spring-2005/dcbf6a2ca511ae4e6a6bac55c5d114a6_infect_disease.pdf
 file_type: application/pdf
+parent_uid: 2aa0972e-3546-9eed-c276-985bd8c0386c
 resourcetype: Document
 title: infect_disease.pdf
 uid: dcbf6a2c-a511-ae4e-6a6b-ac55c5d114a6

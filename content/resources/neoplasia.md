@@ -5,6 +5,7 @@ description: This file contains notes for benign tumors, malignant tumors, liver
   of tumor cell growth, local invasion and metastasis etc.
 file: https://ol-ocw-studio-app-qa.s3.amazonaws.com/courses/20-450-molecular-and-cellular-pathophysiology-be-450-spring-2005/36e28f76ea2df6e1aea3ce2b1360fa39_neoplasia.pdf
 file_type: application/pdf
+parent_uid: 2aa0972e-3546-9eed-c276-985bd8c0386c
 resourcetype: Document
 title: neoplasia.pdf
 uid: 36e28f76-ea2d-f6e1-aea3-ce2b1360fa39
